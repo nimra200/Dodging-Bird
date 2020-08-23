@@ -1,6 +1,6 @@
 # Dodging-Bird
 This game is my version of the popular "Flappy Bird". Fly the bird through the pipes and watch as the background changes from day to night!
-The pipes become harder to doge as the game speeds up gradually. Try your best and see if you can become the next Dodging-Bird champion!
+The pipes become harder to doge as the game speeds up gradually. Type "f" to make the bird flap up, and let gravity pull it back down. Try your best and see if you can become the next Dodging-Bird champion!
 
 # How to Play the Game
 You will need MARS 4.5 installed. To run the game, you need to go under "Tools" and select:
