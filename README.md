@@ -4,13 +4,18 @@ The pipes become harder to doge as the game speeds up gradually. Type "f" to mak
 
 # Game Screen
 The game shifts from day to night as you progress: 
+
+
 ![Screen Shot 2020-08-23 at 1 14 59 AM](https://user-images.githubusercontent.com/56455442/90971427-20a86180-e4de-11ea-8233-3d583f9a178f.png)
 
 ![Screen Shot 2020-08-23 at 1 19 17 AM](https://user-images.githubusercontent.com/56455442/90971491-b3e19700-e4de-11ea-98e7-abbfe4e7e861.png)
 
 ![Screen Shot 2020-08-23 at 1 19 58 AM](https://user-images.githubusercontent.com/56455442/90971503-c8259400-e4de-11ea-9305-9d01f8120de6.png)
 
-![Screen Shot 2020-08-23 at 1 14 59 AM](https://user-images.githubusercontent.com/56455442/90971427-20a86180-e4de-11ea-8233-3d583f9a178f.png)
+Game Over Screen:
+
+![Screen Shot 2020-08-23 at 1 20 31 AM](https://user-images.githubusercontent.com/56455442/90971557-2ce0ee80-e4df-11ea-978a-69d0f64e3d28.png)
+
 
 
 
