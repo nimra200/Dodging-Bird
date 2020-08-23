@@ -3,6 +3,8 @@ This game is my version of the popular "Flappy Bird". Fly the bird through the p
 The pipes become harder to doge as the game speeds up gradually. Type "f" to make the bird flap up, and let gravity pull it back down. Try your best and see if you can become the next Dodging-Bird champion!
 
 # Game Screen
+See a demo here: https://youtu.be/DHhJsybnYe0
+
 The game shifts from day to night as you progress: 
 
 
